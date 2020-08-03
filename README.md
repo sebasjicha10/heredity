@@ -1,7 +1,7 @@
 # Heredity
 
 ## Built with Python - Bayesian Networks, Joint Probability, and Sensor Models
-Program running: 
+Program running: https://youtu.be/2waBj20RtH4
 
 ## How to run (example)
 
