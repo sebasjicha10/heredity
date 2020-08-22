@@ -3,6 +3,8 @@
 ## Built with Python - Bayesian Networks, Joint Probability, and Sensor Models
 Program running: https://youtu.be/2waBj20RtH4
 
+AI to assess the likelihood that a person will have a particular genetic trait.
+
 ## How to run (example)
 
 ```
